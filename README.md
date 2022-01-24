@@ -1,8 +1,17 @@
 [![Overall](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapp.opslevel.com%2Fapi%2Fservice_level%2FAILxMhrLALfBwq6SWi7NWx5X_WQlQJduI_NjdU4lP9I)](https://app.opslevel.com/services/shopping_cart_service/maturity-report)
+
+[![All Checks available](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapp.opslevel.com%2Fapi%2Fservice_level%2FAILxMhrLALfBwq6SWi7NWx5X_WQlQJduI_NjdU4lP9I%2Fall_checks_available)](https://app.opslevel.com/services/shopping_cart_service/maturity-report)
+
+[![Service Ownership](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapp.opslevel.com%2Fapi%2Fservice_level%2FAILxMhrLALfBwq6SWi7NWx5X_WQlQJduI_NjdU4lP9I%2Fservice_ownership)](https://app.opslevel.com/services/shopping_cart_service/maturity-report)
+
 [![Security](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapp.opslevel.com%2Fapi%2Fservice_level%2FAILxMhrLALfBwq6SWi7NWx5X_WQlQJduI_NjdU4lP9I%2Fsecurity_2)](https://app.opslevel.com/services/shopping_cart_service/maturity-report)
+
 [![Reliability](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapp.opslevel.com%2Fapi%2Fservice_level%2FAILxMhrLALfBwq6SWi7NWx5X_WQlQJduI_NjdU4lP9I%2Freliability_2)](https://app.opslevel.com/services/shopping_cart_service/maturity-report)
+
 [![Scalability](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapp.opslevel.com%2Fapi%2Fservice_level%2FAILxMhrLALfBwq6SWi7NWx5X_WQlQJduI_NjdU4lP9I%2Fscalability_2)](https://app.opslevel.com/services/shopping_cart_service/maturity-report)
+
 [![Observability](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapp.opslevel.com%2Fapi%2Fservice_level%2FAILxMhrLALfBwq6SWi7NWx5X_WQlQJduI_NjdU4lP9I%2Fobservability_2)](https://app.opslevel.com/services/shopping_cart_service/maturity-report)
+
 [![Quality](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapp.opslevel.com%2Fapi%2Fservice_level%2FAILxMhrLALfBwq6SWi7NWx5X_WQlQJduI_NjdU4lP9I%2Fquality_2)](https://app.opslevel.com/services/shopping_cart_service/maturity-report)
 
 # Ruby on Rails Tutorial: sample application
