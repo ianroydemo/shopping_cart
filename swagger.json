@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "title": "Shopping Cart API"
   },
-  "host": "virtserver.swaggerhub.com",
+  "host": "prod.gandalfsbooks.com",
   "basePath": "/ShoppingCartAPI/1.0.0",
   "tags": [
     {
