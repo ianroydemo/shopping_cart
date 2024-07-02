@@ -6,10 +6,10 @@
     "title": "Shopping Cart API"
   },
   "host": "prod.gandalfsbooks.com",
-  "servers":[
-    "url": "https://api.example.com/v1",
-    "url": "https://sandbox-api.example.com:8443/v1"
-  ],
+  "servers":{
+    ["url": "https://api.example.com/v1"],
+    ["url": "https://sandbox-api.example.com:8443/v1"]
+  },
   "basePath": "/ShoppingCartAPI/1.0.0",
   "tags": [
     {
