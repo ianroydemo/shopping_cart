@@ -5,10 +5,18 @@
     "version": "1.0.0",
     "title": "Shopping Cart API"
   },
-  "servers":{
-    ["url": "https://api.example.com/v1"],
-    ["url": "https://sandbox-api.example.com:8443/v1"]
-  },
+{
+  "servers": [
+    {
+      "url": "https://api.example.com/v1",
+      "description": "Production server (uses live data)"
+    },
+    {
+      "url": "https://sandbox-api.example.com:8443/v1",
+      "description": "Sandbox server (uses test data)"
+    }
+  ]
+},
   "tags": [
     {
       "name": "Shopping Cart",
